@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋✨
+# Hi there, I'm [ERN] Svara! 👋✨
 
 <p align="center">
   <!-- Top Banner / Featured Header Image -->
@@ -20,12 +20,12 @@
 
 Welcome to my profile! Beyond coding and technology, I'm a passionate fan of **JKT48** and dedicated to supporting my favorite member (*oshi*):
 
-🌟 **Cathleen Nixie (Erine) JKT48** 🌟
+🌟 **Catherine Vallencia JKT48** 🌟
 > *"Hadir dengan seribu kejutan..Checkmate! Siap memenangkan hatimu!"* ✨
 
 <p align="center">
   <!-- Erine Image Card -->
-  <img src="https://jkt48.com/images/member/profile/48x48/125.jpg" alt="Erine JKT48 Profile" width="120px" style="border-radius: 50%;">
+  <img src="https://i.pinimg.com/736x/da/64/8e/da648ec645dbaad6890b190fb3ff5cc6.jpg" alt="Erine JKT48 Profile" width="120px" style="border-radius: 50%;">
 </p>
 
 ---
