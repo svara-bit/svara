@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Top Banner / Featured Header Image -->
-  <img src="https://images.tokopedia.net/img/KDFm2T/2023/12/28/0a3f656b-3e58-450a-9d62-1bfdf75a342b.jpg" alt="JKT48 Header Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://i.pinimg.com/736x/e9/ed/1f/e9ed1fdcc4ab932ef51602a70f898d7b.jpg" alt="JKT48 Header Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 <p align="center">
@@ -34,15 +34,6 @@ Welcome to my profile! Beyond coding and technology, I'm a passionate fan of **J
 
 * 💻 **Tech Stack:** Working on Web / Mobile Development, Automation & open-source projects.
 * 🎧 **Music:** Listening to JKT48 songs.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="45%">
-</p>
 
 ---
 
