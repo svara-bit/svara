@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://jkt48.com">
-    <img src="https://img.shields.io/badge/Oshi-Cathleen_Nixie_(Erine)-e91e63?style=for-the-badge&logo=heart&logoColor=white" alt="Oshi Badge">
+    <img src="https://img.shields.io/badge/Catherina Vallencia-e91e63?style=for-the-badge&logo=heart&logoColor=white" alt="Oshi Badge">
   </a>
   <a href="https://jkt48.com">
-    <img src="https://img.shields.io/badge/Fanbase-JKT48_Wota-c2185b?style=for-the-badge&logo=bandcamp&logoColor=white" alt="JKT48 Fan Base">
+    <img src="https://img.shields.io/badge/Fanbase-JKT48-c2185b?style=for-the-badge&logo=bandcamp&logoColor=white" alt="JKT48 Fan Base">
   </a>
 </p>
 
